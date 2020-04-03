@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.0.5)
+  - DropDown (2.3.13)
+  - SwiftyXMLParser (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - DropDown
+  - SwiftyXMLParser
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - SwiftyXMLParser
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  SwiftyXMLParser: 5ebb8793192f403fa8cc691045143906122a7a75
+
+PODFILE CHECKSUM: 324fc5c36334a519fa8766c69905947b54ef326c
+
+COCOAPODS: 1.8.4
