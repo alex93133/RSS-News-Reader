@@ -124,6 +124,8 @@
 				A84FE2132435D5F0006636B9 /* Main.storyboard */,
 				A84FE2182435D5F2006636B9 /* LaunchScreen.storyboard */,
 				A8C4D3102436329E0029E6BF /* Design.swift */,
+				A885CF9224360AD2007DF7A8 /* NewsFeedCustomCell.swift */,
+				A8379E2C243736030056D165 /* SelectedNewsCustomCells.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -132,10 +134,8 @@
 			isa = PBXGroup;
 			children = (
 				A84FE2272435D8DD006636B9 /* NewsFeedViewController.swift */,
-				A885CF9224360AD2007DF7A8 /* NewsFeedCustomCell.swift */,
 				A84FE2292435D95A006636B9 /* NewsFeedViewControllerExtensions.swift */,
 				A8C4D30D243628240029E6BF /* SelectedNewsViewController.swift */,
-				A8379E2C243736030056D165 /* SelectedNewsCustomCells.swift */,
 				A8379E2E243736D20056D165 /* SelectedNewsViewControllerExtensions.swift */,
 			);
 			path = Controllers;
