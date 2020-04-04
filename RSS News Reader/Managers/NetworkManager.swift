@@ -12,6 +12,7 @@ class NetworkManager{
     
     
     func fetchXMLData(targetVC: UIViewController, handler: @escaping ([News]?) -> ()) {
+        URLCache.shared = URLCache(memoryCapacity: 0, diskCapacity: 0, diskPath: nil)
         AF.request(urlString).response { (response) in
             if let error = response.error {
                 DispatchQueue.main.async {
